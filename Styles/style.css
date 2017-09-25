@@ -21,6 +21,7 @@ body {
 }
 .header {
 	display:flex;
+	margin:auto;
 	flex-flow:column;
 	position:center;
 	border-bottom: 2px solid black;
