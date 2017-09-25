@@ -26,7 +26,8 @@ body {
 	flex-flow:column;
 	position:center;
 	border-bottom: 2px solid black;
-	
+
+}
 .footer, .main {
 	padding: 10px 10px 10px 10px ;
 }
