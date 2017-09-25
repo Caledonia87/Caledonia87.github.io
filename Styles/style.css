@@ -22,7 +22,7 @@ body {
 .header {
 	display:flex;
 	flex-flow:column;
-	position:relative;
+	position:center;
 	border-bottom: 2px solid black;
 	
 .footer, .main {
