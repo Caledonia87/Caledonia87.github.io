@@ -20,7 +20,8 @@ body {
 	border-bottom: 2px solid black;
 }
 .header {
-	
+	display:flex;
+	flex-flow:column;
 	position:relative;
 	border-bottom: 2px solid black;
 	
